@@ -3,7 +3,9 @@
 
 A list of OSINT tools that may be useful to you when conducting investigations related to the United Arab Emirates (Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah and Fujairah). Do you want to add more tools or sources? Make a pull-request.
 
-Unless further explained, the site or project has Arabic and English versions. Arabic versions may be more comprehensive. Some data is only available to registered UAE residents. 
+Unless further explained, the site or project has Arabic and English versions. Arabic versions may be more comprehensive. Some data is only available to registered UAE residents.
+## Contributions
+Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
  ## Table of content:
  - [Open Data portals](#open-data-portals)
