@@ -1,9 +1,9 @@
 # OSINT-Tools-Emirates
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="Flag of Emirates"/>
 
-A list of OSINT tools that may be useful to you when conducting investigations related to the United Arab Emirates (Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah and Fujairah). Do you want me to add more? Make a pull-request.
+A list of OSINT tools that may be useful to you when conducting investigations related to the United Arab Emirates (Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah and Fujairah). Do you want to add more tools or sources? Make a pull-request.
 
-Unless further clarified, the site or project has both Arab and English versions. Arab versions could be more complex. Some data avaliable only for registered UAE residents. 
+Unless further explained, the site or project has Arabic and English versions. Arabic versions may be more comprehensive. Some data is only available to registered UAE residents. 
 
  ## Table of content:
  - [Open Data portals](#open-data-portals)
