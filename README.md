@@ -7,12 +7,12 @@ Unless further explained, the site or project has Arabic and English versions. A
 ## Contributions
 Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
- ## Table of content:
+## Table of content:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
  - [Cadastral Maps](#maps)
  - [Vehicles](#vehicles)
- - [Phones etc.](#phones)
+ - [People, phones, social etc.](#people)
  - [Public procurements](#public-procurement)
  - [WHOIS](#whois)
 
@@ -52,7 +52,7 @@ Large databases with detailed info about 240K+ persons from arab regions. Biogra
 - [Car Registration API](http://www.carregistrationapi.ae). This service provides an API that allows users to look up vehicle information based on license plate numbers across all emirates. Users can register for a free account that includes 10 complimentary lookups. 
 - [Abu Dhabi Police](https://es.adpolice.gov.ae/trafficservices/Registration/Login.aspx?Culture=en) App and [Dubai Police](https://www.dubaipolice.gov.ae/wps/portal/home) App
 
-## Phones
+## People
 - [Yellow Pages UAE](https://www.yellowpages-uae.com)
 - [Dubai Yellow Pages Online](https://dubaiyellowpagesonline.com)
 - [Etisalat Yellow Pages](https://www.yellowpages.ae)
