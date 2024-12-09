@@ -59,6 +59,8 @@ Large databases with detailed info about 240K+ persons from arab regions. Biogra
 - [Getcontact](https://getcontact.com) work as well
 - Try [OSINT Industries](https://app.osint.industries).
 Nice free options for investigators
+- [Social Search CSE by Pogoda](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0). 
+- See also updated [OSINT CSE List on GitHub](https://github.com/paulpogoda/OSINT-CSE)
 
 
 ## Public procurement
