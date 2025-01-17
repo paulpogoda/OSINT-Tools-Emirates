@@ -5,7 +5,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 
 Unless further explained, the site or project has Arabic and English versions. Arabic versions may be more comprehensive. Some data is only available to registered UAE residents.
 ## Contributions
-Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
 ## Table of contents:
  - [Open Data portals](#open-data-portals)
