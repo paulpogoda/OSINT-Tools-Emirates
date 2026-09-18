@@ -36,6 +36,7 @@ The UAE Trade Registry Smart Portal is a comprehensive platform for entrepreneur
 Accessible to the public without any fees
 - [Dubai eServices](https://eservices.dubaided.gov.ae/Pages/Anon/GstHme.aspx?dedqs=PM671p6QBb0lV1okx2JABgxoLLKXOgPx)
 - [AGDM](https://www.adgm.com/public-registers). The Abu Dhabi Global Market (ADGM) official online registry solutions for public register and Financial Services Regulatory Authority and Registrations (FSRA)
+- [OpenRegistry](https://openregistry.sophymarine.com). ADGM and DMCC public registers queried live — company search, profile and filings, exposed over MCP for AI agents (free zones only, not mainland)
 - [Arab persons and entities database](https://manhom.com).
 Large databases with detailed info about 240K+ persons from arab regions. Biographies, social media profiles, related peoples and more. The site also allows you to track changes on the pages of people you are interested in
 - [Company registrars within the UAE](https://www.moec.gov.ae/en/company-registrars-within-the-uae)
